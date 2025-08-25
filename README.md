@@ -30,6 +30,7 @@ resource BicepGroup 'Microsoft.Resources/resourceGroups@2025-04-01' = {
 
 ## Screenshots  
 
+0. ![Step 0](./Images/Account_Setup.png)  
 1. ![Step 1](./Images/1.png)  
 2. ![Step 2](./Images/2.png)  
 3. ![Step 3](./Images/3.png)  
